@@ -1,4 +1,29 @@
 baseURL = 'https://medialab-invisible.github.com/'
 languageCode = 'es-es'
 title = 'Medialab de la Invisible'
-theme = 'ananke'
+theme = 'roadster'
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "right"  # Configure layout for list pages
+  single = true # Configure layout for single pages
+  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets.social]
+  github = "medialab-invisible"
+  email = "medialab@lainvisible.net"
+
+[[Params.widgets.social.custom]]
+  title = "Mastodon"
+  url = "https://xarxa.cloud/@medialab_invisible"
+  icon = "svg/mastodon.svg" # Optional. Path relative to "layouts/partials"
+  rel = "me" # Set to false to remove the rel attribute
+
+[[Params.widgets.social.custom]]
+  title = "Codeberg"
+  url = "https://codeberg.org/medialab-invisible"
+  icon = "svg/tag.svg" # Optional. Path relative to "layouts/partials"
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
