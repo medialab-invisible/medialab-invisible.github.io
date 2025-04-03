@@ -1,6 +1,5 @@
 +++
 date = '2025-03-14T20:18:09+02:00'
-draft = true
 title = 'Wikipedia Marzo 2025'
 tags = ['wikipedia', 'Wikipedia', 'Medialab', 'LaInvisible', 'Taller', 'Editatona', 'CulturaLibre', 'ConocimientoCompartido', 'MedialabInvisible', 'EditatonaMujerWikipedia']
 +++
