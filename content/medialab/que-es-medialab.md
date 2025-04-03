@@ -7,4 +7,4 @@ Medialab es un espacio no elitista y horizontal de encuentro para personas con i
 
 Cualquier persona puede proponer actividades así como dinamizarlas.
 
-Desde el Medialab priorizamos el respecto y la inclusión de cualquier colectivo, orientación, género e ideología.
+Desde el Medialab priorizamos el respeto y la inclusión de cualquier colectivo, orientación, género e ideología.
